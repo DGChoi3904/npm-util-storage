@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DGChoi3904/npm-util-storage/issues"
   },
-  "homepage": "https://github.com/DGChoi3904/npm-util-storage#readme"
+  "homepage": "https://github.com/DGChoi3904/npm-util-storage#readme",
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
 }
