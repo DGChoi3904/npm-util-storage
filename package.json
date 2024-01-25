@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "이 리포지스토리는 각 npm 모듈을 개별로 저장하여, 모듈 설치시 어떠한 파일을 다운로드 했는지, 확인 및 수동으로 옮기는 방법을 모색하기 위해 만들어진 리포지스토리입니다.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
